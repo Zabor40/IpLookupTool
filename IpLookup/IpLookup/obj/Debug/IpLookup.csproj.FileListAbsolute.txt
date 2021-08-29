@@ -1,0 +1,7 @@
+C:\Users\mkc\source\repos\IpLookup\IpLookup\bin\Debug\IpLookup.exe.config
+C:\Users\mkc\source\repos\IpLookup\IpLookup\bin\Debug\IpLookup.exe
+C:\Users\mkc\source\repos\IpLookup\IpLookup\bin\Debug\IpLookup.pdb
+C:\Users\mkc\source\repos\IpLookup\IpLookup\obj\Debug\IpLookup.csproj.AssemblyReference.cache
+C:\Users\mkc\source\repos\IpLookup\IpLookup\obj\Debug\IpLookup.csproj.CoreCompileInputs.cache
+C:\Users\mkc\source\repos\IpLookup\IpLookup\obj\Debug\IpLookup.exe
+C:\Users\mkc\source\repos\IpLookup\IpLookup\obj\Debug\IpLookup.pdb
